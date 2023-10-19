@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 snowflake-connector-python
+snowflake
